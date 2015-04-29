@@ -8,13 +8,17 @@ The data sets used were [Active Food Establishment Licenses]
 Requirements
 ------------
 To code is available as an IPython Notebook and uses Pandas and Geopy as libraries. To install these dependencies use:
+
 ```$pip install ipython```
+
 ```$pip install pandas```
+
 ```$pip install geopy```
 
 Running locally
 ---------------
 Clone the [GitHub repository](https://github.com/mmoyses/EatInBoston) and start IPython notebook in the same directory where the repository was checked out using
+
 ```ipython notebook --pylab=inline```
 
 Visualizing online
